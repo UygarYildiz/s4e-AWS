@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: nonamens
+  labels:
+    name: nonamens
+    environment: production
